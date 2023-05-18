@@ -1,0 +1,3 @@
+Hello fellow developers!
+My name is Manamolela Peete and I am learning frontend developing.
+
